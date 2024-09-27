@@ -1,6 +1,6 @@
 ## String Algorithms (20 problems each)
 
-- [ ]  KMP (Knuth-Morris-Pratt) Algorithm
+- [-]  KMP (Knuth-Morris-Pratt) Algorithm
 - [ ]  Z Algorithm
 - [ ]  Trie (Prefix Tree) / Aho-Corasick
 - [ ]  String Hashing
