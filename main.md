@@ -1,9 +1,3 @@
-## String Algorithms (20 problems each)
-
-- [x]  KMP (Knuth-Morris-Pratt) Algorithm
-- [ ]  Z Algorithm
-- [ ]  Trie (Prefix Tree) / Aho-Corasick
-- [ ]  String Hashing
 
 ## Dynamic Programming (DP) (20 problems each)
 
@@ -24,11 +18,18 @@
 
 ## Graph Algorithms (20 problems each)
 
-- [ ]  Single Source Shortest Path (Dijkstra, Bellman-Ford)
-- [ ]  All Pairs Shortest Path (Floyd-Warshall, Bellman-Ford)
 - [ ]  Depth First Search (DFS)
 - [ ]  Breadth First Search (BFS)
+- [ ]  Single Source Shortest Path (Dijkstra, Bellman-Ford)
+- [ ]  All Pairs Shortest Path (Floyd-Warshall, Bellman-Ford)
 - [ ]  Minimum Spanning Tree (MST) (Kruskal's Algorithm)
+
+## String Algorithms (20 problems each)
+
+- [ ]  KMP (Knuth-Morris-Pratt) Algorithm
+- [ ]  Z Algorithm
+- [ ]  Trie (Prefix Tree) / Aho-Corasick
+- [ ]  String Hashing
 
 ## Tree Algorithms (20 problems each)
 
